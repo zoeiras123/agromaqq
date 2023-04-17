@@ -11,6 +11,7 @@
     text-align: center;
 }
 body {
+    margin: auto;
     font-family: 'Roboto', sans-serif;
     background-color: green;
     line-height: 1.5em;
@@ -56,7 +57,6 @@ header>h1 {
 }
 
 main {
-    margin: auto;
     padding: 30px 15px 30px 15px;
     background-color: whitesmoke;
     text-align: justify;
@@ -72,5 +72,5 @@ margin: 15px;
 }
 
 div{
-    text-align: center;
+    margin: auto;
 }
