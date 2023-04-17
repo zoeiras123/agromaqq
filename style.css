@@ -67,10 +67,10 @@ main>h2{
     padding: 25px;
 }
 
-main>img{
-  padding: 25px 500px 25px 500px;
-}
-
 main>ol>li{
 margin: 15px;
+}
+
+div{
+    text-align: center;
 }
