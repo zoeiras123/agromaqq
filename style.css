@@ -7,9 +7,10 @@
     padding: 0px;
 }
 
-#intro{
+#intro {
     text-align: center;
 }
+
 body {
     margin: auto;
     font-family: 'Roboto', sans-serif;
@@ -47,9 +48,6 @@ header {
 header {
     background-color: rgb(181, 249, 181);
     text-align: center;
-}
-
-header>h1 {
     font-size: 4em;
     padding: 25px;
 }
@@ -60,15 +58,15 @@ main {
     text-align: justify;
 }
 
-main>h2{
+main>h2 {
     text-align: center;
     padding: 25px;
 }
 
-main>ol>li{
-margin: 15px;
+main>ol>li {
+    margin: 15px;
 }
 
-div{
+div {
     margin: auto;
 }
