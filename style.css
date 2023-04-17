@@ -47,8 +47,6 @@ header {
 header {
     background-color: rgb(181, 249, 181);
     text-align: center;
-    font-weight: 600px;
-    padding: 40px;
 }
 
 header>h1 {
