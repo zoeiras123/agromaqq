@@ -7,13 +7,13 @@
     padding: 0px;
 }
 
-#intro {
+#intro{
     text-align: center;
 }
-
 body {
     margin: auto;
     font-family: 'Roboto', sans-serif;
+    background-color: green;
     line-height: 1.5em;
 }
 
@@ -26,7 +26,6 @@ menu {
 menu>a {
     color: black;
     text-decoration: none;
-    font-size: 1em;
     font-weight: bold;
     padding: 5px;
     margin-right: 20px
@@ -47,6 +46,10 @@ header {
 header {
     background-color: rgb(181, 249, 181);
     text-align: center;
+    font-weight: 700px;
+}
+
+header>h1 {
     font-size: 4em;
     padding: 25px;
 }
@@ -57,15 +60,16 @@ main {
     text-align: justify;
 }
 
-main>h2 {
+main>h2{
     text-align: center;
     padding: 25px;
 }
 
-main>ol>li {
-    margin: 15px;
+main>ol>li{
+margin: 15px;
 }
 
-div {
+div{
     margin: auto;
+    text-align: center;
 }
